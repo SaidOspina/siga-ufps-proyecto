@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# 🎓 SIGA-UFPS: Sistema Inteligente de Gestión de Admisión
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Universidad Francisco de Paula Santander**  
+*Semillero de Inteligencia Artificial (SIA)*
 
-## Available Scripts
+## 🚀 Demo en Vivo
+👉 **[Ver Demo](https://saidospina.github.io/siga-ufps-proyecto))**
 
-In the project directory, you can run:
+## 📝 Descripción
+Sistema de validación de documentos basado en Inteligencia Artificial para optimizar los procesos administrativos de admisión en la UFPS.
 
-### `npm start`
+### ✨ Características Principales
+- 🤖 **IA Avanzada**: Clasificación automática de documentos válidos/inválidos
+- 📊 **Dashboard Completo**: Estadísticas en tiempo real
+- 🔄 **Aprendizaje Continuo**: El sistema mejora con cada validación
+- 📱 **Interfaz Moderna**: Diseño responsive y fácil de usar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👥 Desarrollo
+- **Deisler Said Prado Ospina** (1006194488)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Docente**: Ana Gissel Gutiérrez Buitrago
 
-### `npm test`
+## 🛠️ Tecnologías Utilizadas
+- **Frontend**: React.js, Css 
+- **IA/ML**: Machine Learning para clasificación de documentos
+- **UI/UX**: Lucide React Icons, Diseño responsivo
+- **Despliegue**: GitHub Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Imagenes del proyecto
+![image](https://github.com/user-attachments/assets/c783a037-d421-42b2-ba60-16d18bcbba52)
+![image](https://github.com/user-attachments/assets/67152490-450e-45a8-aaf6-d79c3259289b)
+![image](https://github.com/user-attachments/assets/e78d0a16-c941-4d4d-bb74-a5bb08f5d07d)
+![image](https://github.com/user-attachments/assets/6de1792a-0286-434a-a03a-d0374636e4ba)
+![image](https://github.com/user-attachments/assets/e69bd6d4-b036-4d8c-8fce-3a9aa0e81cb0)
+![image](https://github.com/user-attachments/assets/92da1cd1-657c-4945-938f-7c920a697cb0)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Instalación y Uso
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerrequisitos
+- Node.js (v16 o superior)
+- npm o yarn
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Instalación
+\`\`\`bash
+# Clonar el repositorio
+git clone https://github.com/SaidOspina/siga-ufps-proyecto.git
+cd siga-ufps-sistema
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Instalar dependencias
+npm install
 
-## Learn More
+# Ejecutar en modo desarrollo
+npm start
+\`\`\`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Uso del Sistema
+1. **Entrenamiento**: Sube documentos válidos e inválidos
+2. **Entrenar Modelo**: Haz clic en "Entrenar Modelo de IA"
+3. **Validación**: Sube nuevos documentos para validar
+4. **Resultados**: Revisa estadísticas y análisis detallado
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📊 Resultados Esperados
+- ⚡ **70% reducción** en tiempo de procesamiento
+- 🎯 **95%+ precisión** en clasificación
+- 📈 **1000+ documentos/día** procesados
+- 😊 **90%+ satisfacción** del personal
 
-### Code Splitting
+## 🎯 Impacto del Proyecto
+- Optimización de procesos administrativos
+- Reducción de errores humanos
+- Mejor experiencia para estudiantes
+- Liberación de recursos para tareas estratégicas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📞 Contacto
+**Universidad Francisco de Paula Santander**  
+Cúcuta, Norte de Santander, Colombia
 
-### Analyzing the Bundle Size
+---
+*Desarrollado por el Semillero de Inteligencia Artificial(SIA) - UFPS*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Deisler Said Prado Ospina](https://portafoliosaid-production.up.railway.app/): [Web Aquí](https://portafoliosaid-production.up.railway.app/)
