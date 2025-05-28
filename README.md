@@ -82,3 +82,5 @@ Cúcuta, Norte de Santander, Colombia
 
 ---
 *Desarrollado por el Semillero de Inteligencia Artificial(SIA) - UFPS*
+
+[Deisler Said Prado Ospina](https://portafoliosaid-production.up.railway.app/): [Web Aquí](https://portafoliosaid-production.up.railway.app/)
