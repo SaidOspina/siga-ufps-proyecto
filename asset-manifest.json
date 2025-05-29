@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/siga-ufps-proyecto/static/css/main.24066bad.css",
-    "main.js": "/siga-ufps-proyecto/static/js/main.fe051a7d.js",
+    "main.js": "/siga-ufps-proyecto/static/js/main.780970e7.js",
     "static/js/453.72c354a6.chunk.js": "/siga-ufps-proyecto/static/js/453.72c354a6.chunk.js",
     "index.html": "/siga-ufps-proyecto/index.html",
     "main.24066bad.css.map": "/siga-ufps-proyecto/static/css/main.24066bad.css.map",
-    "main.fe051a7d.js.map": "/siga-ufps-proyecto/static/js/main.fe051a7d.js.map",
+    "main.780970e7.js.map": "/siga-ufps-proyecto/static/js/main.780970e7.js.map",
     "453.72c354a6.chunk.js.map": "/siga-ufps-proyecto/static/js/453.72c354a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24066bad.css",
-    "static/js/main.fe051a7d.js"
+    "static/js/main.780970e7.js"
   ]
 }
